@@ -83,26 +83,6 @@
   </url>
   
   <url>
-    <loc>https://tkj516.github.io/categories/blog/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tkj516.github.io/posts/dummy/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tkj516.github.io/tags/i18n/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tkj516.github.io/authors/translation-test/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tkj516.github.io/authors/jane-smith/</loc>
     <lastmod>2017-01-08T00:00:00+00:00</lastmod>
   </url>
@@ -171,15 +151,7 @@
   </url>
   
   <url>
-    <loc>https://tkj516.github.io/contact/</loc>
-  </url>
-  
-  <url>
     <loc>https://tkj516.github.io/snippets/first/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tkj516.github.io/projects/</loc>
   </url>
   
   <url>
@@ -196,10 +168,6 @@
   
   <url>
     <loc>https://tkj516.github.io/snippets/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tkj516.github.io/about/</loc>
   </url>
   
 </urlset>

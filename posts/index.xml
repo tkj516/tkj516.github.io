@@ -41,15 +41,6 @@ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$ This is text with 
     </item>
     
     <item>
-      <title>Dummy</title>
-      <link>https://tkj516.github.io/posts/dummy/</link>
-      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://tkj516.github.io/posts/dummy/</guid>
-      <description>Nada para ver aqui!</description>
-    </item>
-    
-    <item>
       <title>Theme Demo</title>
       <link>https://tkj516.github.io/posts/theme-demo/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
